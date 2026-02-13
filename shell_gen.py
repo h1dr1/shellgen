@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 #python shell generator by h1dr1
-#created on feb13,12:07
 
 #Just a simple tool so i don't visit reverse shell generator website 
 # and practice coding XD ;) 
